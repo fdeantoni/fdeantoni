@@ -1,6 +1,6 @@
 👋 Hi, I’m @fdeantoni
 
-You can find me on <a rel="me" href="https://fosstodon.org/@fdeantoni">Mastodon</a> too!
+You can find me on <a href="https://medium.com/@fdeantoni">Medium</a> and <a rel="me" href="https://fosstodon.org/@fdeantoni">Mastodon</a> too!
 
 <!---
 fdeantoni/fdeantoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
